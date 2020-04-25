@@ -1,7 +1,7 @@
 # Enhanced-CRM-System-to-Predict-Customer-Buying-Patterns
 Project with Capital Goods Manufacturer - Industry Partner
 ***********************************
-NOTE: Input and output files cannot be shared due to confidentiality reasons 
+NOTE: Input and output data files cannot be shared due to confidentiality reasons 
 ***********************************
 FILE: Purchase_Probability_Estimation_Model_Evaluation.py
 DESCRIPTION:
